@@ -1,0 +1,50 @@
+body{
+    font-family:sans-serif;
+    background-color: #404447
+}
+.contenedor{
+    border: 1px solid red;
+    height: 700px;
+    width: 100%;
+}
+.contenedormenu{
+    border: 1px solid red;
+    height: auto;
+    width: 19%;
+    color: #ffffff;
+    float: left;
+}
+.contenedorcolores{
+    border: 1px solid red;
+    height: 700px;
+    width: 80%;
+    float: right;
+}
+.texto{
+    color: #ffffff;
+    font-size: small;
+}
+.texto:hover{
+    color: #989898;
+    font-size: small;
+}
+.contenedorcyan{
+    height: 25%;
+    width: auto;
+    background-color: cyan;
+}
+.contenedoramarillo{
+    height: 25%;
+    width: auto;
+    background-color: yellow;
+}
+.contenedornaranja{
+    height: 25%;
+    width: auto;
+    background-color: orange;
+}
+.contenedorrojo{
+    height: 25%;
+    width: auto;
+    background-color: red;
+}
